@@ -1,4 +1,4 @@
-# Simple Calculator 
+# Simple Calculator with a using javascript 
 
 The simple calculator design by using HTML CSS and Javascript .
 
